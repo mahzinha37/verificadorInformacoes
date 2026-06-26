@@ -23,3 +23,16 @@ main{
     align-items: center;
     background-color: #7FFFD4;
 }
+.cartao{
+    width: 260px;
+    height: 200px;
+}
+
+.cartao-imagem{
+    width: 100%;
+}
+
+.cartao-interno{
+
+    position: relative;
+}
